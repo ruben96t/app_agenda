@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AgendaLite</string>
+    <string name="title_insert">Insert</string>
+    <string name="title_search">Search</string>
+    <string name="title_list">List</string>
+
+    <string-array name="developer_positions">
+        <item>Android Developer</item>
+        <item>Java Developer</item>
+        <item>.Net Developer</item>
+        <item>Google Developer</item>
+        <item>Ionic Developer</item>
+        <item>Apple Developer</item>
+    </string-array>
+
+
+
+    <!-- Info Message -->
+    <string name="saved_successfully">Record saved correctly</string>
+
+
+    <!-- Errors Message -->
+    <string name="saved_error">Cannot insert the record</string>
+    <string name="field_empty">Fields cannot be empty</string>
+
+
+</resources>
